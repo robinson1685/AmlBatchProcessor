@@ -1,0 +1,290 @@
+2024-03-31 03:04:44.399 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T03:04:44.3944852+07:00"
+2024-03-31 03:04:44.430 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:44.4306064+07:00"
+2024-03-31 03:04:44.431 +07:00 [INF] Task started running
+2024-03-31 03:04:44.439 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-31 03:04:44.440 +07:00 [INF] Hosting environment: Development
+2024-03-31 03:04:44.441 +07:00 [INF] Content root path: C:\Users\marke\source\repos\AmlBatchProcessor\AmlBatchProcessor.Worker
+2024-03-31 03:04:45.447 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:45.4473794+07:00"
+2024-03-31 03:04:45.448 +07:00 [INF] Task started running
+2024-03-31 03:04:46.453 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:46.4533395+07:00"
+2024-03-31 03:04:46.455 +07:00 [INF] Task started running
+2024-03-31 03:04:47.471 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:47.4716426+07:00"
+2024-03-31 03:04:47.473 +07:00 [INF] Task started running
+2024-03-31 03:04:48.483 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:48.4836898+07:00"
+2024-03-31 03:04:48.491 +07:00 [INF] Task started running
+2024-03-31 03:04:49.501 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:49.5016189+07:00"
+2024-03-31 03:04:49.502 +07:00 [INF] Task started running
+2024-03-31 03:04:50.505 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:50.5056932+07:00"
+2024-03-31 03:04:50.507 +07:00 [INF] Task started running
+2024-03-31 03:04:51.511 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:51.5117288+07:00"
+2024-03-31 03:04:51.515 +07:00 [INF] Task started running
+2024-03-31 03:04:52.523 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:52.5233104+07:00"
+2024-03-31 03:04:52.525 +07:00 [INF] Task started running
+2024-03-31 03:04:53.536 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T03:04:53.5363802+07:00"
+2024-03-31 03:04:53.538 +07:00 [INF] Task started running
+2024-03-31 16:55:57.662 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T16:55:57.6586374+07:00"
+2024-03-31 16:55:57.691 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T16:55:57.6909801+07:00"
+2024-03-31 16:55:57.692 +07:00 [INF] Task started running
+2024-03-31 16:56:48.006 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-31 16:56:48.022 +07:00 [INF] Hosting environment: Development
+2024-03-31 16:56:48.026 +07:00 [INF] Content root path: C:\Users\marke\source\repos\AmlBatchProcessor\AmlBatchProcessor.Worker
+2024-03-31 23:43:57.682 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:43:57.6794150+07:00"
+2024-03-31 23:46:09.972 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:46:09.9640594+07:00"
+2024-03-31 23:46:52.296 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:46:52.2919225+07:00"
+2024-03-31 23:47:48.833 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:47:48.8269521+07:00"
+2024-03-31 23:47:54.045 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:47:54.0429553+07:00"
+2024-03-31 23:47:54.763 +07:00 [INF] Task started running
+2024-03-31 23:48:05.170 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:48:05.1683235+07:00"
+2024-03-31 23:48:51.954 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:48:51.9511139+07:00"
+2024-03-31 23:48:58.046 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:48:58.0442896+07:00"
+2024-03-31 23:48:58.615 +07:00 [INF] Task started running
+2024-03-31 23:49:04.606 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:49:04.6057052+07:00"
+2024-03-31 23:57:53.807 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:57:53.8019152+07:00"
+2024-03-31 23:57:53.846 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:57:53.8458888+07:00"
+2024-03-31 23:57:53.853 +07:00 [INF] Task started running
+2024-03-31 23:57:53.866 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:57:53.8662940+07:00"
+2024-03-31 23:58:26.597 +07:00 [INF] AmlBatchProcessor.Worker service starting at: "2024-03-31T23:58:26.5935351+07:00"
+2024-03-31 23:58:26.675 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:26.6749223+07:00"
+2024-03-31 23:58:26.677 +07:00 [INF] Task started running
+2024-03-31 23:58:26.690 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:26.6903762+07:00"
+2024-03-31 23:58:26.702 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-31 23:58:26.703 +07:00 [INF] Hosting environment: Development
+2024-03-31 23:58:26.705 +07:00 [INF] Content root path: C:\Users\marke\source\repos\AmlBatchProcessor\AmlBatchProcessor.Worker
+2024-03-31 23:58:27.709 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:27.7092490+07:00"
+2024-03-31 23:58:27.711 +07:00 [INF] Task started running
+2024-03-31 23:58:27.712 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:27.7127370+07:00"
+2024-03-31 23:58:30.863 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:30.8629858+07:00"
+2024-03-31 23:58:30.865 +07:00 [INF] Task started running
+2024-03-31 23:58:30.866 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:30.8665215+07:00"
+2024-03-31 23:58:35.359 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:35.3598007+07:00"
+2024-03-31 23:58:35.363 +07:00 [INF] Task started running
+2024-03-31 23:58:35.365 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:35.3654778+07:00"
+2024-03-31 23:58:36.386 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:36.3866320+07:00"
+2024-03-31 23:58:36.389 +07:00 [INF] Task started running
+2024-03-31 23:58:36.392 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:36.3922461+07:00"
+2024-03-31 23:58:37.413 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:37.4132415+07:00"
+2024-03-31 23:58:37.416 +07:00 [INF] Task started running
+2024-03-31 23:58:37.420 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:37.4201593+07:00"
+2024-03-31 23:58:38.439 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:38.4394589+07:00"
+2024-03-31 23:58:38.441 +07:00 [INF] Task started running
+2024-03-31 23:58:38.443 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:38.4432479+07:00"
+2024-03-31 23:58:39.455 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:39.4557967+07:00"
+2024-03-31 23:58:39.458 +07:00 [INF] Task started running
+2024-03-31 23:58:39.460 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:39.4604690+07:00"
+2024-03-31 23:58:52.711 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.711 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.723 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.730 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.732 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.743 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.745 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.758 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.712 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.711 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.715 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.723 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:52.7232058+07:00"
+2024-03-31 23:58:52.730 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.737 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.744 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.758 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.768 +07:00 [INF] A file was created: test1.txt
+2024-03-31 23:58:52.783 +07:00 [INF] Task started running
+2024-03-31 23:58:52.794 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:52.7948802+07:00"
+2024-03-31 23:58:53.799 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:53.7994551+07:00"
+2024-03-31 23:58:53.806 +07:00 [INF] Task started running
+2024-03-31 23:58:53.807 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:53.8076497+07:00"
+2024-03-31 23:58:54.817 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:54.8174979+07:00"
+2024-03-31 23:58:54.819 +07:00 [INF] Task started running
+2024-03-31 23:58:54.821 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:54.8214265+07:00"
+2024-03-31 23:58:55.833 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:55.8333839+07:00"
+2024-03-31 23:58:55.837 +07:00 [INF] Task started running
+2024-03-31 23:58:55.839 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:55.8395097+07:00"
+2024-03-31 23:58:56.845 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:56.8450871+07:00"
+2024-03-31 23:58:56.847 +07:00 [INF] Task started running
+2024-03-31 23:58:56.849 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:56.8490581+07:00"
+2024-03-31 23:58:57.860 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:57.8608137+07:00"
+2024-03-31 23:58:57.863 +07:00 [INF] Task started running
+2024-03-31 23:58:57.865 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:57.8657829+07:00"
+2024-03-31 23:58:58.870 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:58.8706098+07:00"
+2024-03-31 23:58:58.873 +07:00 [INF] Task started running
+2024-03-31 23:58:58.875 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:58.8751778+07:00"
+2024-03-31 23:58:59.887 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:59.8875155+07:00"
+2024-03-31 23:58:59.889 +07:00 [INF] Task started running
+2024-03-31 23:58:59.891 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:58:59.8915501+07:00"
+2024-03-31 23:59:00.914 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:00.9141609+07:00"
+2024-03-31 23:59:00.918 +07:00 [INF] Task started running
+2024-03-31 23:59:00.919 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:00.9191528+07:00"
+2024-03-31 23:59:01.927 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:01.9278594+07:00"
+2024-03-31 23:59:01.930 +07:00 [INF] Task started running
+2024-03-31 23:59:01.932 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:01.9327967+07:00"
+2024-03-31 23:59:02.940 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:02.9407336+07:00"
+2024-03-31 23:59:02.943 +07:00 [INF] Task started running
+2024-03-31 23:59:02.946 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:02.9466852+07:00"
+2024-03-31 23:59:03.957 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:03.9575307+07:00"
+2024-03-31 23:59:03.958 +07:00 [INF] Task started running
+2024-03-31 23:59:03.960 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:03.9601371+07:00"
+2024-03-31 23:59:04.974 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:04.9741230+07:00"
+2024-03-31 23:59:04.977 +07:00 [INF] Task started running
+2024-03-31 23:59:04.981 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:04.9815460+07:00"
+2024-03-31 23:59:05.989 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:05.9896204+07:00"
+2024-03-31 23:59:05.991 +07:00 [INF] Task started running
+2024-03-31 23:59:05.992 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:05.9922707+07:00"
+2024-03-31 23:59:06.998 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:06.9982401+07:00"
+2024-03-31 23:59:06.999 +07:00 [INF] Task started running
+2024-03-31 23:59:07.001 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:07.0016423+07:00"
+2024-03-31 23:59:08.011 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:08.0115864+07:00"
+2024-03-31 23:59:08.014 +07:00 [INF] Task started running
+2024-03-31 23:59:08.016 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:08.0165549+07:00"
+2024-03-31 23:59:09.027 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:09.0278392+07:00"
+2024-03-31 23:59:09.029 +07:00 [INF] Task started running
+2024-03-31 23:59:09.033 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:09.0331828+07:00"
+2024-03-31 23:59:10.051 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:10.0515677+07:00"
+2024-03-31 23:59:10.054 +07:00 [INF] Task started running
+2024-03-31 23:59:10.057 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:10.0578415+07:00"
+2024-03-31 23:59:11.066 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:11.0668549+07:00"
+2024-03-31 23:59:11.069 +07:00 [INF] Task started running
+2024-03-31 23:59:11.072 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:11.0721627+07:00"
+2024-03-31 23:59:12.087 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:12.0875279+07:00"
+2024-03-31 23:59:12.089 +07:00 [INF] Task started running
+2024-03-31 23:59:12.091 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:12.0912873+07:00"
+2024-03-31 23:59:13.104 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:13.1041460+07:00"
+2024-03-31 23:59:13.107 +07:00 [INF] Task started running
+2024-03-31 23:59:13.110 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:13.1101491+07:00"
+2024-03-31 23:59:14.125 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:14.1258970+07:00"
+2024-03-31 23:59:14.128 +07:00 [INF] Task started running
+2024-03-31 23:59:14.130 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:14.1304885+07:00"
+2024-03-31 23:59:15.146 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:15.1466850+07:00"
+2024-03-31 23:59:15.149 +07:00 [INF] Task started running
+2024-03-31 23:59:15.150 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:15.1502697+07:00"
+2024-03-31 23:59:16.162 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:16.1623723+07:00"
+2024-03-31 23:59:16.165 +07:00 [INF] Task started running
+2024-03-31 23:59:16.168 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:16.1688636+07:00"
+2024-03-31 23:59:17.174 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:17.1748789+07:00"
+2024-03-31 23:59:17.176 +07:00 [INF] Task started running
+2024-03-31 23:59:17.178 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:17.1787020+07:00"
+2024-03-31 23:59:18.190 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:18.1906888+07:00"
+2024-03-31 23:59:18.192 +07:00 [INF] Task started running
+2024-03-31 23:59:18.194 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:18.1941752+07:00"
+2024-03-31 23:59:19.207 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:19.2070293+07:00"
+2024-03-31 23:59:19.208 +07:00 [INF] Task started running
+2024-03-31 23:59:19.210 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:19.2100912+07:00"
+2024-03-31 23:59:20.213 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:20.2137020+07:00"
+2024-03-31 23:59:20.216 +07:00 [INF] Task started running
+2024-03-31 23:59:20.217 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:20.2175667+07:00"
+2024-03-31 23:59:21.227 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:21.2270145+07:00"
+2024-03-31 23:59:21.230 +07:00 [INF] Task started running
+2024-03-31 23:59:21.233 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:21.2330184+07:00"
+2024-03-31 23:59:22.242 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:22.2428080+07:00"
+2024-03-31 23:59:22.245 +07:00 [INF] Task started running
+2024-03-31 23:59:22.247 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:22.2477004+07:00"
+2024-03-31 23:59:23.265 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:23.2656918+07:00"
+2024-03-31 23:59:23.270 +07:00 [INF] Task started running
+2024-03-31 23:59:23.272 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:23.2722392+07:00"
+2024-03-31 23:59:24.282 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:24.2828821+07:00"
+2024-03-31 23:59:24.285 +07:00 [INF] Task started running
+2024-03-31 23:59:24.287 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:24.2875655+07:00"
+2024-03-31 23:59:25.290 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:25.2904600+07:00"
+2024-03-31 23:59:25.293 +07:00 [INF] Task started running
+2024-03-31 23:59:25.295 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:25.2952136+07:00"
+2024-03-31 23:59:26.311 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:26.3113214+07:00"
+2024-03-31 23:59:26.314 +07:00 [INF] Task started running
+2024-03-31 23:59:26.316 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:26.3166480+07:00"
+2024-03-31 23:59:27.328 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:27.3285410+07:00"
+2024-03-31 23:59:27.331 +07:00 [INF] Task started running
+2024-03-31 23:59:27.334 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:27.3340609+07:00"
+2024-03-31 23:59:28.348 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:28.3484641+07:00"
+2024-03-31 23:59:28.351 +07:00 [INF] Task started running
+2024-03-31 23:59:28.353 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:28.3539247+07:00"
+2024-03-31 23:59:29.363 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:29.3634905+07:00"
+2024-03-31 23:59:29.365 +07:00 [INF] Task started running
+2024-03-31 23:59:29.366 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:29.3666415+07:00"
+2024-03-31 23:59:30.379 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:30.3796104+07:00"
+2024-03-31 23:59:30.382 +07:00 [INF] Task started running
+2024-03-31 23:59:30.384 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:30.3845776+07:00"
+2024-03-31 23:59:31.394 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:31.3942720+07:00"
+2024-03-31 23:59:31.396 +07:00 [INF] Task started running
+2024-03-31 23:59:31.398 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:31.3984095+07:00"
+2024-03-31 23:59:32.417 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:32.4176334+07:00"
+2024-03-31 23:59:32.420 +07:00 [INF] Task started running
+2024-03-31 23:59:32.422 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:32.4221351+07:00"
+2024-03-31 23:59:33.427 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:33.4279632+07:00"
+2024-03-31 23:59:33.430 +07:00 [INF] Task started running
+2024-03-31 23:59:33.433 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:33.4333771+07:00"
+2024-03-31 23:59:34.445 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:34.4450402+07:00"
+2024-03-31 23:59:34.447 +07:00 [INF] Task started running
+2024-03-31 23:59:34.449 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:34.4494666+07:00"
+2024-03-31 23:59:35.463 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:35.4637188+07:00"
+2024-03-31 23:59:35.467 +07:00 [INF] Task started running
+2024-03-31 23:59:35.469 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:35.4699318+07:00"
+2024-03-31 23:59:36.479 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:36.4794815+07:00"
+2024-03-31 23:59:36.481 +07:00 [INF] Task started running
+2024-03-31 23:59:36.485 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:36.4850962+07:00"
+2024-03-31 23:59:37.494 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:37.4942194+07:00"
+2024-03-31 23:59:37.497 +07:00 [INF] Task started running
+2024-03-31 23:59:37.500 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:37.5000480+07:00"
+2024-03-31 23:59:38.507 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:38.5074750+07:00"
+2024-03-31 23:59:38.509 +07:00 [INF] Task started running
+2024-03-31 23:59:38.511 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:38.5116804+07:00"
+2024-03-31 23:59:39.526 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:39.5264186+07:00"
+2024-03-31 23:59:39.529 +07:00 [INF] Task started running
+2024-03-31 23:59:39.530 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:39.5306516+07:00"
+2024-03-31 23:59:40.545 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:40.5449813+07:00"
+2024-03-31 23:59:40.547 +07:00 [INF] Task started running
+2024-03-31 23:59:40.548 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:40.5488343+07:00"
+2024-03-31 23:59:41.556 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:41.5560887+07:00"
+2024-03-31 23:59:41.557 +07:00 [INF] Task started running
+2024-03-31 23:59:41.558 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:41.5587996+07:00"
+2024-03-31 23:59:42.569 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:42.5698492+07:00"
+2024-03-31 23:59:42.574 +07:00 [INF] Task started running
+2024-03-31 23:59:42.576 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:42.5766020+07:00"
+2024-03-31 23:59:43.589 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:43.5896269+07:00"
+2024-03-31 23:59:43.593 +07:00 [INF] Task started running
+2024-03-31 23:59:43.596 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:43.5965846+07:00"
+2024-03-31 23:59:44.605 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:44.6058647+07:00"
+2024-03-31 23:59:44.609 +07:00 [INF] Task started running
+2024-03-31 23:59:44.611 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:44.6112508+07:00"
+2024-03-31 23:59:45.616 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:45.6168302+07:00"
+2024-03-31 23:59:45.619 +07:00 [INF] Task started running
+2024-03-31 23:59:45.621 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:45.6211873+07:00"
+2024-03-31 23:59:46.633 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:46.6336341+07:00"
+2024-03-31 23:59:46.635 +07:00 [INF] Task started running
+2024-03-31 23:59:46.637 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:46.6371677+07:00"
+2024-03-31 23:59:47.644 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:47.6447393+07:00"
+2024-03-31 23:59:47.649 +07:00 [INF] Task started running
+2024-03-31 23:59:47.650 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:47.6504845+07:00"
+2024-03-31 23:59:48.656 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:48.6568614+07:00"
+2024-03-31 23:59:48.658 +07:00 [INF] Task started running
+2024-03-31 23:59:48.660 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:48.6602912+07:00"
+2024-03-31 23:59:49.673 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:49.6737077+07:00"
+2024-03-31 23:59:49.675 +07:00 [INF] Task started running
+2024-03-31 23:59:49.677 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:49.6776415+07:00"
+2024-03-31 23:59:50.684 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:50.6844298+07:00"
+2024-03-31 23:59:50.686 +07:00 [INF] Task started running
+2024-03-31 23:59:50.689 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:50.6890576+07:00"
+2024-03-31 23:59:51.697 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:51.6976792+07:00"
+2024-03-31 23:59:51.699 +07:00 [INF] Task started running
+2024-03-31 23:59:51.701 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:51.7010133+07:00"
+2024-03-31 23:59:52.712 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:52.7124347+07:00"
+2024-03-31 23:59:52.715 +07:00 [INF] Task started running
+2024-03-31 23:59:52.716 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:52.7169468+07:00"
+2024-03-31 23:59:53.731 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:53.7313389+07:00"
+2024-03-31 23:59:53.734 +07:00 [INF] Task started running
+2024-03-31 23:59:53.735 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:53.7350843+07:00"
+2024-03-31 23:59:54.744 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:54.7442942+07:00"
+2024-03-31 23:59:54.746 +07:00 [INF] Task started running
+2024-03-31 23:59:54.747 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:54.7477711+07:00"
+2024-03-31 23:59:55.762 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:55.7621998+07:00"
+2024-03-31 23:59:55.764 +07:00 [INF] Task started running
+2024-03-31 23:59:55.767 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:55.7674589+07:00"
+2024-03-31 23:59:56.783 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:56.7830491+07:00"
+2024-03-31 23:59:56.785 +07:00 [INF] Task started running
+2024-03-31 23:59:56.787 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:56.7871271+07:00"
+2024-03-31 23:59:57.792 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:57.7923400+07:00"
+2024-03-31 23:59:57.795 +07:00 [INF] Task started running
+2024-03-31 23:59:57.797 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:57.7975100+07:00"
+2024-03-31 23:59:58.811 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:58.8117915+07:00"
+2024-03-31 23:59:58.815 +07:00 [INF] Task started running
+2024-03-31 23:59:58.817 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:58.8175031+07:00"
+2024-03-31 23:59:59.824 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:59.8242815+07:00"
+2024-03-31 23:59:59.827 +07:00 [INF] Task started running
+2024-03-31 23:59:59.830 +07:00 [INF] AmlBatchWorkerService running at: "2024-03-31T23:59:59.8300427+07:00"

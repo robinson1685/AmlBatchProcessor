@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmlBatchProcessor.Worker", "AmlBatchProcessor.Worker\AmlBatchProcessor.Worker.csproj", "{83A7BCF1-FE2E-4760-AE02-32CA6032DA6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmlBatchProcessor.Domain", "AmlBatchProcessor.Core\AmlBatchProcessor.Domain.csproj", "{85AD0CCE-E75B-4D44-A73B-E49E1F65B598}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmlBatchProcessor.Infrastructure", "AmlBatchProcessor.Infrastructure\AmlBatchProcessor.Infrastructure.csproj", "{BFA5E89E-EDA9-4C3E-8051-9757A3EE82C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmlBatchProcessor.Application", "AmlBatchProcessor.Application\AmlBatchProcessor.Application.csproj", "{31E9B899-E67B-4086-856D-5C25AC11C583}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6EF721F-49B7-46AA-82DD-C236144FDB39}"
+	ProjectSection(SolutionItems) = preProject
+		..\CleanArchitecture.WorkerService\.dockerignore = ..\CleanArchitecture.WorkerService\.dockerignore
+		..\CleanArchitecture.WorkerService\.editorconfig = ..\CleanArchitecture.WorkerService\.editorconfig
+		..\CleanArchitecture\.gitignore = ..\CleanArchitecture\.gitignore
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A7BCF1-FE2E-4760-AE02-32CA6032DA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A7BCF1-FE2E-4760-AE02-32CA6032DA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A7BCF1-FE2E-4760-AE02-32CA6032DA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A7BCF1-FE2E-4760-AE02-32CA6032DA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AD0CCE-E75B-4D44-A73B-E49E1F65B598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AD0CCE-E75B-4D44-A73B-E49E1F65B598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AD0CCE-E75B-4D44-A73B-E49E1F65B598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AD0CCE-E75B-4D44-A73B-E49E1F65B598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA5E89E-EDA9-4C3E-8051-9757A3EE82C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA5E89E-EDA9-4C3E-8051-9757A3EE82C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA5E89E-EDA9-4C3E-8051-9757A3EE82C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA5E89E-EDA9-4C3E-8051-9757A3EE82C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E9B899-E67B-4086-856D-5C25AC11C583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E9B899-E67B-4086-856D-5C25AC11C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E9B899-E67B-4086-856D-5C25AC11C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E9B899-E67B-4086-856D-5C25AC11C583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58ABB096-A86A-4F34-8E9F-5C3A60D08192}
+	EndGlobalSection
+EndGlobal
